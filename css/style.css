@@ -1,0 +1,74 @@
+.carousel-caption  H1{
+color: red;
+text-shadow: white 3px 3px 3px;
+
+}
+
+.carousel-caption  H3{
+color: red;
+text-shadow: white 3px 3px 3px;
+}
+
+.card  .card-img-top{
+  width: 268px;
+  height: 180px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card{
+  margin: auto;
+  margin-top: 10px;
+}
+
+.card-img-top{
+  float: right;
+}
+
+.card-body {
+  float: left;
+}
+
+.card-title{
+  text-align: center;
+  margin: center;
+}
+
+.card-text{
+  text-align: center;
+  margin: center;
+}
+
+.card-body .btn {
+
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+
+}
+
+.row1 {
+  margin: 30px;
+}
+
+.page-footer {
+/* background-color: lightblue; */
+
+}
+
+.form-group h1{
+  text-align: center;
+}
+
+.col-md-7 p {
+  text-align: justify;
+}
+
+.featurette-image {
+float: right;
+
+}
+
+.col-md-7{
+
+}
